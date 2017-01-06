@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Institucional</string>
+    <string name="app_name_aempresa">Institucional - A Empresa</string>
+    <string name="app_name_servicos">Institucional - Serviços</string>
+    <string name="app_name_clientes">Institucional - Clientes</string>
+    <string name="app_name_contato">Institucional - Contato</string>
+</resources>
